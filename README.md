@@ -1,7 +1,8 @@
 # Personal site
 
-Static personal page for Mingsong Liu (刘明松), served by GitHub Pages at
-<https://msl-sc.github.io>.
+Academic page for Mingsong Liu (刘明松), served by GitHub Pages at
+<https://msl-sc.github.io>. Study-related content only — no contact details,
+no CV, no personal information.
 
 Plain HTML / CSS / vanilla JS — no build step, no framework.
 
@@ -11,7 +12,6 @@ Plain HTML / CSS / vanilla JS — no build step, no framework.
 index.html          page markup; English is the inline default
 assets/style.css    styling
 assets/i18n.js      EN / 中文 dictionary + language switch (remembers choice in localStorage)
-MingsongLiu_CV.pdf  CV
 .nojekyll           skip Jekyll processing on GitHub Pages
 ```
 

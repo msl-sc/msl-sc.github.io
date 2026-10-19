@@ -3,25 +3,18 @@
   var DICT = {
     en: {
       "meta.title": "Mingsong Liu — Mathematics with Computer Science",
-      "meta.desc": "Personal page of Mingsong Liu, undergraduate in Mathematics with Computer Science at GTIIT.",
+      "meta.desc": "Academic page of Mingsong Liu, undergraduate in Mathematics with Computer Science at GTIIT.",
       "brand": "Mingsong Liu",
       "lang.label": "Language",
 
-      "nav.about": "About",
       "nav.education": "Education",
       "nav.research": "Research",
       "nav.projects": "Projects",
-      "nav.contact": "Contact",
+      "nav.skills": "Skills",
 
       "hero.name": "Mingsong Liu",
       "hero.role": "Undergraduate, Mathematics with Computer Science",
       "hero.affil": "Guangdong Technion – Israel Institute of Technology (GTIIT)",
-      "hero.location": "Foshan / Shantou, China",
-      "hero.cv": "CV (PDF)",
-
-      "sec.about": "About",
-      "about.p1": "I am an undergraduate at Guangdong Technion – Israel Institute of Technology (GTIIT), reading Mathematics with Computer Science. My interests are in theoretical computer science and quantum information.",
-      "about.p2": "I like small, well-defined problems: a minimal formal language whose program size measures sequence complexity, a sliding-block puzzle written from scratch in Game Boy assembly, or a parser that turns a compiler log into clickable source locations.",
 
       "sec.education": "Education",
       "edu.degree": "B.S. in Mathematics with Computer Science",
@@ -82,38 +75,27 @@
       "s1.text": "Python, C, Java, JavaScript, Game Boy assembly (RGBDS), SQL",
       "s2.tag": "Tools",
       "s2.text": "Git, Linux, Node.js / npm / Vite, LaTeX",
-      "s3.tag": "Spoken",
-      "s3.text": "Chinese (native), English (fluent; degree taught in English)",
 
-      "sec.awards": "Awards &amp; interests",
+      "sec.awards": "Awards",
       "a1": "Academic Excellence Award, 2024–2025 academic year, GTIIT.",
-      "a2": "Basketball, fitness.",
 
-      "sec.contact": "Contact",
       "footer.text": "© 2026 Mingsong Liu"
     },
 
     zh: {
       "meta.title": "刘明松 — 数学与计算机科学",
-      "meta.desc": "刘明松的个人主页，广东以色列理工学院数学与计算机科学专业本科生。",
+      "meta.desc": "刘明松的学业主页，广东以色列理工学院数学与计算机科学专业本科生。",
       "brand": "刘明松",
       "lang.label": "语言",
 
-      "nav.about": "简介",
       "nav.education": "教育",
       "nav.research": "科研",
       "nav.projects": "项目",
-      "nav.contact": "联系",
+      "nav.skills": "技能",
 
       "hero.name": "刘明松",
       "hero.role": "数学与计算机科学 本科在读",
       "hero.affil": "广东以色列理工学院（GTIIT）",
-      "hero.location": "中国 佛山 / 汕头",
-      "hero.cv": "简历 PDF",
-
-      "sec.about": "简介",
-      "about.p1": "我是广东以色列理工学院（GTIIT）数学与计算机科学专业本科生，兴趣方向为理论计算机科学与量子信息。",
-      "about.p2": "我喜欢小而明确的问题：一门用程序规模度量序列复杂度的极简形式语言、一个用 Game Boy 汇编从零写出的滑块解谜游戏，或是一个把编译日志解析成可点击源码位置的解析器。",
 
       "sec.education": "教育背景",
       "edu.degree": "数学与计算机科学 理学学士",
@@ -174,14 +156,10 @@
       "s1.text": "Python、C、Java、JavaScript、Game Boy 汇编（RGBDS）、SQL",
       "s2.tag": "工具",
       "s2.text": "Git、Linux、Node.js / npm / Vite、LaTeX",
-      "s3.tag": "语言",
-      "s3.text": "中文（母语）、英语（流利，学位课程全英文授课）",
 
-      "sec.awards": "荣誉与爱好",
+      "sec.awards": "荣誉",
       "a1": "广东以色列理工学院 2024–2025 学年学业优秀奖。",
-      "a2": "篮球、健身。",
 
-      "sec.contact": "联系",
       "footer.text": "© 2026 刘明松"
     }
   };
