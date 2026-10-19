@@ -20,7 +20,6 @@
       "edu.degree": "B.S. in Mathematics with Computer Science",
       "edu.when": "Aug 2023 – Aug 2027",
       "edu.where": "Guangdong Technion – Israel Institute of Technology (GTIIT) · Shantou, China",
-      "edu.b1": "GPA 89.5 / 100, rank 15 (top 21.4%); programme taught entirely in English.",
       "edu.b2": "Core coursework: Data Structures, Systems Programming, Computer Organization, Digital Systems and Computer Structure, Combinatorial Algorithms, Operating Systems, Numerical Analysis, Probability Theory, Combinatorics, Ordinary Differential Equations, Algebra, Infinitesimal Calculus, Introduction to Applied Mathematics.",
 
       "sec.research": "Research",
@@ -101,7 +100,6 @@
       "edu.degree": "数学与计算机科学 理学学士",
       "edu.when": "2023.08 – 2027.08",
       "edu.where": "广东以色列理工学院（GTIIT）· 中国汕头",
-      "edu.b1": "GPA 89.5 / 100，专业排名 15（前 21.4%）；全英文授课。",
       "edu.b2": "核心课程：数据结构、系统编程、计算机组成、数字系统与计算机结构、组合算法、操作系统、数值分析、概率论、组合数学、常微分方程、代数、微积分、应用数学导论。",
 
       "sec.research": "科研经历",
