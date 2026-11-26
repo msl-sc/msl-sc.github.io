@@ -5,7 +5,7 @@
       "meta.title": "Mingsong Liu",
       "meta.desc": "Mingsong Liu, Mathematics with Computer Science.",
       "lang.label": "Language",
-      "intro": "Mingsong Liu — undergraduate in Mathematics with Computer Science at Guangdong Technion – Israel Institute of Technology (GTIIT). Interested in theoretical computer science and quantum information.",
+      "intro": "Mingsong Liu — undergraduate in Mathematics with Computer Science at Guangdong Technion – Israel Institute of Technology (GTIIT).",
       "theme.to.dark": "Dark",
       "theme.to.light": "Light"
     },
@@ -13,7 +13,7 @@
       "meta.title": "刘明松",
       "meta.desc": "刘明松，数学与计算机科学。",
       "lang.label": "语言",
-      "intro": "刘明松，广东以色列理工学院（GTIIT）数学与计算机科学专业本科生，兴趣为理论计算机科学与量子信息。",
+      "intro": "刘明松，广东以色列理工学院（GTIIT）数学与计算机科学专业本科生。",
       "theme.to.dark": "深色",
       "theme.to.light": "浅色"
     }
